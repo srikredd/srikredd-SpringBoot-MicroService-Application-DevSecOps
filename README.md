@@ -21,7 +21,7 @@ Follow these steps to get the project up and running:
 ### 1. Spring Boot Microservices
 
 - Clone this repository to your local machine.
-- Navigate to the `microservices` directory.
+- Navigate to the `SpringBoot-MicroService-Application-DevSecOps` directory.
 - Follow the README instructions in each microservice directory for setup.
 
 ### 2. DockerFile for Each Microservice

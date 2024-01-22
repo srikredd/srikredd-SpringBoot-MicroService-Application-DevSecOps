@@ -1,1 +1,1 @@
-# This Folder contains the terraofrm Infra code for the EKS cluster Setup
+# This Folder contains the Terraofrm code for the Infra Setup in AWS

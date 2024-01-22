@@ -1,1 +1,1 @@
-# DevSecOps Spring Boot Microservices Project
+# DevSecOps Spring Boot Microservices Application
